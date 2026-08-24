@@ -1,8 +1,8 @@
 # 浦野 真希（ウラノ マサキ）
 
 - 甲南大学大学院，自然科学研究科，知能情報学専攻 M1
-- 専門 ： <span style="color: red;">ルベーグ測度</span>，ルベーグ積分，
-<span style="color: blue;">測度論</span>，<span style="color: red;">位相空間</span>
+- 専門 ： <span style="color: red; ">ルベーグ測度</span>，ルベーグ積分，
+<span style="color: blue; ">測度論</span>，<span style="color: red; ">位相空間</span>
 - 趣味　　　 ： 競技プログラミング（Atcoder），ゲーム制作（~~シューティングゲームしか作っていない~~）
 - インターンでやりたいこと ： チームで協力し，いい作品を作り上げる！！（~~優勝して賞金を......~~）
 
